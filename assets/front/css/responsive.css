@@ -1,0 +1,80 @@
+@media (min-width: 320px) and (max-width: 767px) {
+.cuntom-nav {
+	display: none;
+	background: #343433;
+}
+.icon ul {
+	margin-top: 35px;
+}
+.cuntom-nav ul {
+	display: block;
+	margin-top: 10px;
+	padding: 15px 0;
+}
+.cuntom-nav ul li {
+	text-align: center;
+	line-height: 25px;
+}
+.cuntom-nav ul li a {
+	color: #fff;
+}
+.banner-text {
+	margin-top: 0;
+}
+.banner-text h1 {
+	font-size: 50px;
+}
+.banner-text button {
+	margin: 0 0 20px;
+}
+.banner::after {
+	display: none;
+}
+.porro h3 {
+	font-size: 38px;
+	margin: 15px 0 30px;
+}
+.porro p {
+	width: 100%;
+}
+.second-section-text h4 {
+	font-size: 47px;
+	width: 100%;
+}
+.second-img-overlay, .second-img-overlay01 {
+	display: none;
+}
+.third-podcast h3 {
+	font-size: 60px;
+}
+.third-podcast01 h3 {
+	font-size: 60px;
+	margin: 60px 0;
+}
+.third-podcast01 img {
+	margin: 30px 0 0;
+}
+.news-letter h4 {
+	font-size: 40px;
+	width: 100%;
+}
+.news-letter::before {
+	display: none;
+}
+.news-letter input, .news-letter button {
+	width: 100%;
+}
+.footer-bg {
+	height: auto;
+	padding: 63px 0px 30px;
+}
+.footer02 ul {
+	display: block;
+}
+.footer02 ul li {
+	line-height: 25px;
+}
+.third-podcast button {
+	width: 100%;
+}
+}
